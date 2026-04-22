@@ -1,0 +1,28 @@
+# Maven build output
+backend/target/
+
+# Maven wrapper downloaded files (don't commit the full Maven binary)
+backend/.mvn/wrapper/apache-maven-3.9.9/
+backend/.mvn/wrapper/maven.zip
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API key — never commit the real key
+backend/src/main/resources/application.properties
+
+# Old plain HTML version
+index.html
+style.css
+app.js

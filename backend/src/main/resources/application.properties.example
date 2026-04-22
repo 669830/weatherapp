@@ -1,0 +1,5 @@
+spring.application.name=weather-backend
+server.port=8080
+
+# Get a free API key at https://openweathermap.org/api
+weather.api.key=YOUR_API_KEY_HERE
