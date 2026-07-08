@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://weatherapp-to15.onrender.com/api/:path*" }
+  ]
+}
